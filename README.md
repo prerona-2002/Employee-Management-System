@@ -10,6 +10,3 @@
 
 https://documenter.getpostman.com/view/13382761/2sA3kbexWb
 
-### Project Demo
-
-https://youtu.be/ThqMS_Eas8I
