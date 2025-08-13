@@ -1,0 +1,76 @@
+ 
+  .btn {
+    transition: all 0.3s ease;
+  }
+  
+  .btn:hover {
+    transform: translateY(-2px);
+  }
+  
+  .btn:active {
+    transform: translateY(1px);
+  }
+  
+  /* Custom button styles */
+.btn-custom-update {
+    background-color: #4CAF50 !important; /* Green */
+    border-color: #4CAF50 !important;
+    color: #FFFFFF !important;
+    transition: all 0.3s ease !important;
+    border-radius: 20px !important; /* Rounded corners */
+  }
+  
+  .btn-custom-update:hover {
+    background-color: #45a049 !important;
+    border-color: #45a049 !important;
+  }
+  
+  .btn-custom-update:active {
+    background-color: #397d3f !important;
+    border-color: #397d3f !important;
+  }
+  
+  .btn-custom-delete {
+    background-color: #F44336 !important; /* Red */
+    border-color: #F44336 !important;
+    color: #FFFFFF !important;
+    transition: all 0.3s ease !important;
+    border-radius: 20px !important; /* Rounded corners */
+  }
+  
+  .btn-custom-delete:hover {
+    background-color: #e53935 !important;
+    border-color: #e53935 !important;
+  }
+  
+  .btn-custom-delete:active {
+    background-color: #d32f2f !important;
+    border-color: #d32f2f !important;
+  }
+  
+  .btn-custom-view {
+    background-color: #FFC107 !important; /* Amber */
+    border-color: #FFC107 !important;
+    color: #FFFFFF !important;
+    transition: all 0.3s ease !important;
+    border-radius: 20px !important; /* Rounded corners */
+  }
+  
+  .btn-custom-view:hover {
+    background-color: #ffb300 !important;
+    border-color: #ffb300 !important;
+  }
+  
+  .btn-custom-view:active {
+    background-color: #ffa000 !important;
+    border-color: #ffa000 !important;
+  }
+  
+  .btn-custom {
+    margin-left: 10px; /* Spacing between buttons */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Light shadow for depth */
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 20px; /* Rounded corners */
+  }
+  
